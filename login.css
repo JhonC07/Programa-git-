@@ -10,7 +10,7 @@ body {
   align-items: center;
 
   /* Fondo degradado animado */
-  background: linear-gradient(-45deg, #4facfe, #00f2fe, #43e97b, #38f9d7);
+  background: linear-gradient(-45deg, #1C2143, #F2F2F2, #d9820b, #F1F5F9);
   background-size: 400% 400%;
   animation: gradientBG 12s ease infinite;
 }
